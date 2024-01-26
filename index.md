@@ -13,3 +13,8 @@ This is a regular code block
 // This is a code block that renders javascript code
 let name = "John Doe"
 ```
+
+## Adding a task list 
+- [x] Read Intro to GitHub
+- [x] Read about React Hooks
+- [ ] Finish Communicating with markdown on GitHub Education
